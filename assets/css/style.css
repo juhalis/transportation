@@ -13,6 +13,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&family=Saira:wght@400;500;600;700;800;900&display=swap');
 /* :: HTML Root */
 
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css');
 :root {
     --mainColor: #E11D07;
     --mainColorRGB: 225 29 7;
